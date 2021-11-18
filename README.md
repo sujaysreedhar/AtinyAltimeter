@@ -1,0 +1,1 @@
+attiny 85 based alimeter for small model rockets 
